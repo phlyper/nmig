@@ -114,3 +114,6 @@ Or, if you have moved <code>config</code> folder out from Nmig's directory:<br /
 <h3>LICENSE</h3>
 <p>NMIG is available under "GNU GENERAL PUBLIC LICENSE" (v. 3) <br />
 <a href="http://www.gnu.org/licenses/gpl.txt">http://www.gnu.org/licenses/gpl.txt.</a></p>
+
+
+<p>@see https://github.com/depfac/MySqlToPostgreSql</p>
